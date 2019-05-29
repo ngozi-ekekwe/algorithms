@@ -1,0 +1,14 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ngozi-ekekwe/algorithms.git",
+  "author": "ngozi-ekekwe <rose.ekekwe@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
